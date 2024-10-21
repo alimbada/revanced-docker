@@ -1,6 +1,5 @@
 ### Device setup
- - Install GmsCore on device: https://github.com/ReVanced/GmsCore/releases/tag/v0.3.1.4.240913
-
+ - Install GmsCore on device: https://github.com/ReVanced/GmsCore/releases
 ### Pre-requisites
  - Grab latest **supported** YouTube APK, e.g.: https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/
    - "nodpi" version

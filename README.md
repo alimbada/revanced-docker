@@ -12,7 +12,7 @@
  - Grab revanced-cli: https://github.com/ReVanced/revanced-cli/releases
    - name it `revanced-cli.jar` and put it in the `data` directory
  - Grab patches: https://github.com/ReVanced/revanced-patches/releases
-  - name it `patches.rvp` and put it in the `data` directory
+   - name it `patches.rvp` and put it in the `data` directory
 
 ### Build
  - Build the container:
